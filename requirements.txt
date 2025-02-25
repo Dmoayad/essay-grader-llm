@@ -1,0 +1,7 @@
+gradio>=3.0
+uvicorn
+fastapi
+pydantic
+langchain
+openai
+google-search-results  # If using SerpAPI
