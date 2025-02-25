@@ -1,6 +1,9 @@
 # mac files
 *.DS_Store
 
+# vector database
+*faiss_index*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
